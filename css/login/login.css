@@ -1,0 +1,19 @@
+
+
+
+.div-btn-forms {
+    margin-top: 1em;
+}
+
+.div-actions-login-alter {
+    margin-top: 2em;
+}
+.actions-login-alter {
+    text-decoration: none;
+    color: black;
+}
+
+.actions-login-alter b {
+    color: var(--primary-color);
+}
+

@@ -1,0 +1,48 @@
+
+
+/* module: home */
+@import url(./home/home.css);
+
+/* module: login */
+@import url(./login/login.css);
+
+/* module: register */
+@import url(./register/register.css);
+
+/* module: kanban */
+@import url(./kanban/kanban.css);
+
+/* module: partials */
+@import url(./partials/forms.css);
+
+
+@import url(./partials/normalize.css);
+
+/* module: root */
+:root {
+    --primary-color: #007bff;           /* Azul vibrante para botões e destaques */
+    --secondary-color: #e9ecef;         /* Fundo claro dos cards e colunas */
+    --terciary-color: #f8f9fa;          /* Fundo geral da página */
+    --quaternary-color: #343a40;        /* Cor para textos mais escuros */
+    --quinquenary-color: #6c757d;       /* Cores neutras, bordas, etc */
+    
+    --body-color: #f1f3f5;              /* Cor de fundo do corpo da página */
+    
+    --priority-high: #dc3545;           /* Vermelho */
+    --priority-medium: #ffc107;         /* Amarelo */
+    --priority-low: #28a745;            /* Verde */
+}
+
+.flex-center-column {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.flex-center-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+

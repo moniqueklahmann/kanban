@@ -1,0 +1,35 @@
+
+
+.main-home {
+    width: 100%;
+    height: 100vh;
+}
+
+.div-logo-home {
+    width: 100%;
+    margin-bottom: 4em;
+}
+.div-logo-home img {
+    width: 100px;
+    border-radius: 100%;
+}
+
+.title-home {
+    font-size: 2em;
+}
+
+.div-actions {
+    width: 100%;
+    gap: 1em;
+}
+
+.div-terms-of-use {
+    text-align: center;
+    width: 100%;
+    margin-top: 4em;
+}
+.div-terms-of-use p {
+    width: 35%;
+}
+
+

@@ -1,4 +1,4 @@
-# 📌 Nome do Projeto
+# 📌 Kanban Board
 
 > ✅ Boas-vindas ao repositório oficial do **Nome do Projeto**! Aqui você encontrará todas as informações necessárias para entender, usar e contribuir com o projeto.
 
